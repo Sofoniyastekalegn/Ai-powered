@@ -1,0 +1,8 @@
+Summarize the following customer reviews into a short paragraph highlighting key themes — both positive and negative — about our booking platform, hotels, apartments, medical spas, or dental clinics. 
+
+Focus on:
+- Service quality
+- Pricing satisfaction
+- Booking experience
+- Customer support
+- Overall convenience
